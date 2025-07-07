@@ -1,10 +1,14 @@
 {
-  "generationTimestamp": 1730471003624,
-  "version": "3.15.14",
+  "generationTimestamp": 1769080343067,
+  "version": "3.16.19",
   "globals": [
     {
+      "interface": "gamescope_action_binding_manager",
+      "version": 1
+    },
+    {
       "interface": "gamescope_control",
-      "version": 3
+      "version": 6
     },
     {
       "interface": "gamescope_input_method_manager",
